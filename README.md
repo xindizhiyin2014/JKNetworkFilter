@@ -22,7 +22,7 @@ pod 'JKNetworkFilter'
 
 ## Author
 
-xindizhiyin2014, jack18@same.com
+HHL110120, 929097264@qq.com
 
 ## License
 

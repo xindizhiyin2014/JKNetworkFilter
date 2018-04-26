@@ -38,8 +38,8 @@
 
 /* Begin PBXFileReference section */
 		04705C6FE9DB1D84C4012784 /* Pods-JKNetworkFilter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JKNetworkFilter_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JKNetworkFilter_Tests/Pods-JKNetworkFilter_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		126E9AFB7051D503A8245E55 /* JKNetworkFilter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JKNetworkFilter.podspec; path = ../JKNetworkFilter.podspec; sourceTree = "<group>"; };
-		1F99BDD54095B8F8C9299E0A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		126E9AFB7051D503A8245E55 /* JKNetworkFilter.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JKNetworkFilter.podspec; path = ../JKNetworkFilter.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1F99BDD54095B8F8C9299E0A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		4A28D06C89BF94163966606C /* Pods-JKNetworkFilter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JKNetworkFilter_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-JKNetworkFilter_Example/Pods-JKNetworkFilter_Example.release.xcconfig"; sourceTree = "<group>"; };
 		5AE7F828311FD8751B670501 /* Pods-JKNetworkFilter_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JKNetworkFilter_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JKNetworkFilter_Example/Pods-JKNetworkFilter_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		5E192FA9546B9076B8FADB3C /* Pods_JKNetworkFilter_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JKNetworkFilter_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,7 +64,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8BA59DCEF30ABFE582D1633F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8BA59DCEF30ABFE582D1633F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		910CD5FB54FA726E0D2BCEEA /* Pods-JKNetworkFilter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JKNetworkFilter_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JKNetworkFilter_Tests/Pods-JKNetworkFilter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9180570836B28E6496F3FFAA /* Pods_JKNetworkFilter_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JKNetworkFilter_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */

@@ -1,0 +1,23 @@
+PODS:
+  - JKNetworkFilter (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - JKNetworkFilter (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  JKNetworkFilter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKNetworkFilter: 9dc77588e85f7c90bb9a648b6e8a6d645d77f949
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 8e10ecb2afec30cafa907f2ed30da0073f7d4b9b
+
+COCOAPODS: 1.5.0

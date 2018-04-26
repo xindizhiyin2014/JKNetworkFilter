@@ -1,0 +1,6 @@
+framework module JKNetworkFilter {
+  umbrella header "JKNetworkFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}
