@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JKNetworkFilter_Example' do
+  pod 'JKNetworkFilter', :path => '../'
+
+  target 'JKNetworkFilter_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
